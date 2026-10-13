@@ -1,0 +1,6 @@
+{
+  "name": "CarsonPredict AI",
+  "description": "Robot intelligent d'analyse de football et de paris sportifs. Pronostics automatiques, combinés cotes 3, 4 et 5, statistiques complètes et historique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
